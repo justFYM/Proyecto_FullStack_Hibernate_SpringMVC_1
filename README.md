@@ -1,13 +1,15 @@
 # Proyecto: ```Aplicaciones para el gimnasio de la Universidad de La Frontera```
 
-Durante la cursada de la asignatura de Ingeniería de software, se nos asignó un proyecto que consistió en una plataforma de escritorio y web con el propósito que nosotros quisiéramos. Con el fin de contribuir a la UFRO, se decidió diseñar un proyecto para el gimnasio de la casa de estudio. Para llevar a cabo esta tarea, se inició con el diseño de la 
-plataforma de escritorio utilizando WindowBuilder y la biblioteca Javax.Swing. A medida que avanzamos en la asignatura, se prosiguió a migrar la versión de escritorio a una plataforma web, 
-empleando principalmente frameworks para Java como SpringMVC para separar la lógica y los modelos de la vista e Hibernate para conectarnos a la base de datos. Cabe destacar que esta 
-migración era un requisito obligatorio de la asignatura. Las aplicaciones se pueden apreciar en las siguientes imágenes.
+Durante la cursada en la asignatura de ```Ingeniería de Software```, se nos encomendó un proyecto en el cual debíamos diseñar una plataforma de escritorio y web con un propósito de 
+nuestra elección. Con el objetivo de contribuir a la Universidad de la Frontera (UFRO), se decidió crear un proyecto para el gimnasio de la institución. Para llevar a cabo este proyecto, 
+se comenzó con el diseño de la plataforma de escritorio utilizando WindowBuilder y Java, con la biblioteca Javax.Swing. A medida que avanzábamos en la asignatura, procedimos a migrar la 
+versión de escritorio a una plataforma web, empleando principalmente frameworks para Java como SpringMVC para separar la lógica y los modelos de la vista, e Hibernate para conectarnos a 
+la base de datos. Es importante destacar que esta migración era un requisito obligatorio de la asignatura. Las imágenes de las aplicaciones se pueden apreciar a continuación. Sin embargo, 
+cabe mencionar que los casos de uso totales de las aplicaciones se mantienen en reserva. Además, es importante destacar que la plataforma web es un prototipo, no una versión comercial ni 
+patentada, y que su versión ha sido actualizada en este año 2023.
 
-Cabe destacar que los casos de uso totales de las aplicaciones se mantienen en reserva. Además, es importante mencionar que la versión de la aplicación web ha sido actualizada en este
-año 2023. Si algún reclutador está interesado en obtener más detalles o visualizar las aplicaciones en 
-funcionamiento, puede contactarme a través de correo electrónico: manriquezfernando.ns@gmail.com
+Si algún reclutador está interesado en obtener más detalles o visualizar las aplicaciones en funcionamiento, puede ponerse en contacto conmigo a través de mi correo 
+electrónico: manriquezfernando.ns@gmail.com
 
 ### Stack de tecnologías.
 <p align="center">
@@ -76,6 +78,3 @@ Como ya se ha mencionado en secciones anteriores, el ```Profesional``` es la per
 <p align="center">
   <img src="./IMG/D-Profesional.PNG" alt="Descripción de la imagen">
 </p>
-
-
-
