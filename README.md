@@ -1,6 +1,6 @@
 # Proyecto: ```Aplicaciones para el gimnasio de la Universidad de La Frontera```
 
-Durante la cursada en la asignatura de ```Ingeniería de Software```, se nos encomendó un proyecto en el cual debíamos diseñar una plataforma de escritorio y web con un propósito de 
+Durante la cursada en la asignatura de ```Ingeniería de Software```, se nos encomendó un proyecto en el cual tuvimos que diseñar una plataforma de escritorio y web con un propósito de 
 nuestra elección. Con el objetivo de contribuir a la Universidad de la Frontera (UFRO), se decidió crear un proyecto para el gimnasio de la institución. Para llevar a cabo este proyecto, 
 se comenzó con el diseño de la plataforma de escritorio utilizando WindowBuilder y Java, con la biblioteca Javax.Swing. A medida que avanzábamos en la asignatura, procedimos a migrar la 
 versión de escritorio a una plataforma web, empleando principalmente frameworks para Java como SpringMVC para separar la lógica y los modelos de la vista, e Hibernate para conectarnos a 
