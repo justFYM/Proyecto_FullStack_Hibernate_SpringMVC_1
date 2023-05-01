@@ -1,12 +1,6 @@
-# Proyecto: ```Aplicaciones para el gimnasio de la Universidad de La Frontera```
+# Proyecto: ```Aplicaciones para el gimnasio de la UFRO```
 
-Durante la cursada en la asignatura de ```Ingeniería de Software```, se nos encomendó un proyecto en el cual tuvimos que diseñar una plataforma de escritorio y web con un propósito de 
-nuestra elección. Con el objetivo de contribuir a la Universidad de la Frontera (UFRO), se decidió crear un proyecto para el gimnasio de la institución. Para llevar a cabo este proyecto, 
-se comenzó con el diseño de la plataforma de escritorio utilizando WindowBuilder y Java, con la biblioteca Javax.Swing. A medida que avanzábamos en la asignatura, procedimos a migrar la 
-versión de escritorio a una plataforma web, empleando principalmente frameworks para Java como SpringMVC para separar la lógica y los modelos de la vista, e Hibernate para conectarnos a 
-la base de datos. Es importante destacar que esta migración era un requisito obligatorio de la asignatura. Las imágenes de las aplicaciones se pueden apreciar a continuación. Sin embargo, 
-cabe mencionar que los casos de uso totales de las aplicaciones se mantienen en reserva. Además, es importante destacar que la plataforma web es un prototipo, no una versión comercial ni 
-patentada, y que su versión ha sido actualizada en este año 2023.
+Durante la cursada en la asignatura ```Ingeniería de Software```, se nos encomendó diseñar una plataforma de escritorio y web con un propósito de nuestra elección. Para contribuir a la Universidad de la Frontera (UFRO), se decidió crear un proyecto para el gimnasio de la institución. El objetivo del proyecto es permitir que los socios del gimnasio puedan inscribirse en clases impartidas por profesionales, y que estas sean gestionadas por un administrador. Se comenzó con el proyecto diseñando la plataforma de escritorio con WindowBuilder y Java, utilizando la biblioteca Javax.Swing. A medida que se avanzaba en la asignatura, migrar la versión de escritorio a una plataforma web se convirtió en un requisito obligatorio, por lo que se ocuparon frameworks para Java como SpringMVC para separar la lógica y los modelos de la vista, e Hibernate para conectarnos a la base de datos. Es importante destacar que las imágenes que se muestran a continuación son sólo representativas y que los casos de uso completos de las aplicaciones están reservados. También es importante mencionar que la plataforma web es un prototipo y que la versión actualizada se ha desarrollado en 2023.
 
 Si algún reclutador está interesado en obtener más detalles o visualizar las aplicaciones en funcionamiento, puede ponerse en contacto conmigo a través de mi correo 
 electrónico: manriquezfernando.ns@gmail.com
@@ -19,8 +13,7 @@ electrónico: manriquezfernando.ns@gmail.com
 
 ### ```Login's``` de las aplicaciones.
 
-A continuación, se presentan las imágenes correspondientes a los logins de ambas aplicaciones, tanto la versión de escritorio como la web. Cabe destacar que el sistema se 
-encuentra conectado a una base de datos local PostgreSQL para su correcto funcionamiento.
+A continuación se muestran las imágenes correspondientes a los inicio de sesión tanto de la versión de escritorio como de la plataforma web del proyecto para el gimnasio de la Universidad de la Frontera (UFRO). Es importante mencionar que el sistema se conectó a una base de datos local PostgreSQL para su correcto funcionamiento.
 <p align="center">
   <img src="./IMG/LoginWEB.PNG" alt="Descripción de la imagen">
 </p>
@@ -28,8 +21,7 @@ encuentra conectado a una base de datos local PostgreSQL para su correcto funcio
   <img src="./IMG/LoginDesktop.PNG" alt="Descripción de la imagen">
 </p>
 
-#### Es ```importante``` mencionar que las aplicaciones cuentan con tres tipos de cuenta distintos que heredan de una clase común denominada "Usuario". Debido a esto, las secciones siguientes se organizarán en función de estos tres tipos de cuenta para brindar una mejor comprensión de las funcionalidades y características de cada uno de ellos.
-
+#### Es importante mencionar que ambas aplicaciones cuentan con tres tipos de cuenta distintos que heredan de una clase común denominada ```Usuario```. Debido a esto, las siguientes secciones se organizarán en función de estos tres tipos de cuenta para brindar una mejor comprensión de las funcionalidades y características de cada uno de ellos.
 ## Tipo de cuenta: ```Administrador```
 El Administrador es fundamental en la gestión del sistema, ya que su principal función es agregar clases al mismo. Para ello, resulta indispensable que hayan Profesionales disponibles en el sistema, ya que son ellos quienes se encargarán de impartir dichas clases en el gimnasio.
 
