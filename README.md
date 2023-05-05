@@ -13,7 +13,6 @@ electrónico: manriquezfernando.ns@gmail.com
 
 ### ```Login's``` de las aplicaciones.
 
-A continuación se muestran las imágenes correspondientes a los inicio de sesión tanto de la versión de escritorio como de la plataforma web del proyecto para el gimnasio de la Universidad de la Frontera (UFRO). Es importante mencionar que el sistema se conectó a una base de datos local PostgreSQL para su correcto funcionamiento.
 <p align="center">
   <img src="./IMG/LoginWEB.PNG" alt="Descripción de la imagen">
 </p>
