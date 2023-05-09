@@ -1,6 +1,6 @@
 # Proyecto: ```Aplicaciones para el gimnasio de la UFRO```
 
-El proyecto que a continuación se presenta fue diseñado y creado durante la asignatura de ```Ingeniería de Software```, y su proceso de diseño se basó en la metodología tradicional iterativa. Su intención es contribuir a la Universidad de La Frontera (UFRO) mediante la implementación de tecnología en el gimnasio de la institución. De esta manera, se busca permitir a los socios del gimnasio inscribirse en clases impartidas por profesionales y gestionadas por un administrador.
+El proyecto que a continuación se presenta fue diseñado y creado durante la asignatura ```Ingeniería de Software```, ocupando la metodología tradicional iterativa. Su intención es contribuir a la Universidad de La Frontera (UFRO) mediante la implementación de tecnología en el gimnasio de la institución. De esta manera, se busca permitir a los socios del gimnasio inscribirse en clases impartidas por profesionales y gestionadas por un administrador.
 
 
 ### Stack de tecnologías.
