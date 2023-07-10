@@ -1,6 +1,6 @@
 # Proyecto: ```Aplicaciones para el gimnasio de la UFRO```
 
-El proyecto que a continuación se presenta fue diseñado y creado durante la asignatura ```Ingeniería de Software```, ocupando la metodología tradicional iterativa. Su intención es contribuir a la Universidad de La Frontera (UFRO) mediante la implementación de tecnología en el gimnasio de la institución. De esta manera, se busca permitir a los socios del gimnasio inscribirse en clases impartidas por profesionales y gestionadas por un administrador.
+El siguiente proyecto fue diseñado y creado durante la cursada de la asignatura ```Ingeniería de Software``` en la Universidad de La Frontera, ocupando la metodología tradicional iterativa. La intención del proyecto es contribuir a la casa de estudio con implementación de tecnología en el gimnasio de la institución. De esta manera, se busca permitir a los socios del gimnasio inscribirse en clases impartidas por profesionales y gestionadas por un administrador.
 
 
 ### Stack de tecnologías.
@@ -8,10 +8,9 @@ El proyecto que a continuación se presenta fue diseñado y creado durante la as
   <img src="./IMG/StackTec.PNG" alt="Descripción de la imagen">
 </p>
 
-En cuanto a las tecnologías ocupadas para el desarrollo del proyecto, se pueden observar en la imagen anterior. En primer lugar, se diseñó la plataforma de escritorio ocupando WindowBuilder y Java, haciendo uso de la biblioteca Javax.Swing. Posteriormente, debido a requerimientos de la asignatura, se migró la versión de escritorio a una plataforma web, para lo cual se emplearon frameworks de Java como SpringMVC, con el fin de separar la lógica y los modelos de la vista, e Hibernate, para conectarse a la base de datos.  
-#### Cabe destacar que la plataforma web es un prototipo y no una versión comercial, y que su versión ha sido actualizada en el año 2023.
-Si algún reclutador está interesado en obtener más detalles o visualizar las aplicaciones en funcionamiento, puede ponerse en contacto conmigo a través de mi correo 
-electrónico: manriquezfernando.ns@gmail.com
+Las tecnologías ocupadas para el desarrollo del proyecto son las que muestra la imagen anterior. En primer lugar, se diseñó la plataforma de escritorio ocupando WindowBuilder y Java, haciendo uso de la biblioteca Javax.Swing. Posteriormente, debido a requerimientos de la asignatura, se migró la versión de escritorio a una plataforma web, para lo cual se emplearon frameworks de Java como SpringMVC, con el fin de separar la lógica y los modelos de la vista, e Hibernate, para conectarse a la base de datos.  
+#### Cabe destacar que la plataforma web es un prototipo y no una versión comercial, y que el código fuente de la plataforma web ha sido actualizado en el año 2023.
+Si algún reclutador está interesado en obtener más detalles o visualizar las aplicaciones en funcionamiento, puede ponerse en contacto a través del correo electrónico: manriquezfernando.ns@gmail.com
 
 ### ```Login's``` de las aplicaciones.
 
